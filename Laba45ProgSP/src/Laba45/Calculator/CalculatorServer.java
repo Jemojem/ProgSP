@@ -6,7 +6,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 // строчка для проверки гита
-
+// вще одна
 public class CalculatorServer {
     
     public static void main(String[] args) {
